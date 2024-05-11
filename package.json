@@ -1,0 +1,25 @@
+{
+  "name": "node_restful_api",
+  "version": "1.0.0",
+  "description": "A node RESTful API project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashley-chiteri/MyRestAPI.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Ashley Chiteri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashley-chiteri/MyRestAPI/issues"
+  },
+  "homepage": "https://github.com/ashley-chiteri/MyRestAPI#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
